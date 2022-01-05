@@ -1,0 +1,14 @@
+North Central US
+South Central US
+East US
+West US
+Central US
+North Europe
+West Europe
+East Asia
+Southeast Asia
+Japan East
+Japan West
+Brazil South
+Australia East
+Australia Southeast
